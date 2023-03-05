@@ -11,8 +11,6 @@ apt install python -y
 apt install python2 -y
 apt install php -y
 apt install perl -y
-apt install c -y
-apt install c++ -y
 apt install git -y
 apt install nano -y
 apt install vim -y
@@ -21,7 +19,6 @@ apt install curl -y
 apt install zip -y
 apt install unzip -y
 apt install tar -y
-apt install rar -y
 apt install unrar -y
 apt install less -y
 apt install cowsay -y
@@ -30,8 +27,8 @@ apt install cmatrix -y
 apt install nmap -y
 
 #end
-echo "####################################################################"
+echo "########################################################"
 echo "--------------------------------------------------------------------"
 echo "--------Installation is Completed--------"
 echo "--------------------------------------------------------------------"
-echo "###################################################################"
+echo "########################################################"
