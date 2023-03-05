@@ -22,5 +22,4 @@ cowsay,
 ruby,
 cmatrix,
 nmap <br>
-* No need any manual installation or confirmation
-* Only for Termux (Fdroid Version)
+* Only for Termux (Fdroid or Github Release Version)
