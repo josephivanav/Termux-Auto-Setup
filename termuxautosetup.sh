@@ -1,10 +1,7 @@
 #! /data/data/com.termux/files/usr/bin/bash
 #---Termux Auto Setup By Philip Joseph-------
-echo "" #blank
-echo "" #blank
 #logo of this script
 echo "Creator: Philip Joseph"
-echo "" #blank
 
 #Required Packages List
 apt install python -y
