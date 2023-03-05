@@ -1,5 +1,5 @@
 # Termux-Auto-Setup<br>
-This script can to install below packages in termux automatically<br>
+This script can install below packages in termux automatically<br>
 Packages List:<br>
 python,
 python2,
