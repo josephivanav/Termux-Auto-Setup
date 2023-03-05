@@ -3,7 +3,6 @@
 echo "" #blank
 echo "" #blank
 #logo of this script
-figlet "Termux Auto Setup"
 echo "Creator: Philip Joseph"
 echo "" #blank
 
